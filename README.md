@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsharkcpp&show_icons=true&theme=onedark&layout=compact" />
+  <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsharkcpp&show_icons=true&theme=onedark&layout=compact&cache_seconds=1800" />
 </a>
 
 <br clear="all" />
