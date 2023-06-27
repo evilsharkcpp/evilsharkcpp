@@ -5,7 +5,7 @@ In 2022 I was coding on C#, but I learning C++ now.
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/evilsharkcpp)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:v.o.asaulyuk@yandex.ru)
-
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-0088cc?style=for-the-badge&logo=appveyor&logo=LeetCode&logoColor=white&color=brown)](https://leetcode.com/evilsharkcpp/)
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
