@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Valentin Asaulyuk, junior C++ developer.
+In 2022 I was coding on C#, but I learning C++ now.
 ### Links:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=appveyor&logo=Telegram&logoColor=white&color=blue)](https://t.me/evilsharkcpp)
